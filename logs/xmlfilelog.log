@@ -1,0 +1,80 @@
+[DEBUG] 2017-10-24 17:52:14.125 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:52:14.126 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:52:14.126 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:52:14.126 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:52:14.126 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:53:22.260 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:53:22.261 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:53:22.261 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:53:22.261 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:53:22.261 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:53:54.025 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:53:54.026 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:53:54.074 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:53:54.074 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:53:54.074 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:07.057 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:07.067 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:07.067 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:07.067 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:07.067 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:08.806 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:08.807 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:08.807 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:08.807 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:08.807 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:10.064 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:10.065 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:10.065 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:10.065 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:10.065 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:11.361 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:11.362 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:11.362 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:11.362 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:11.362 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:12.627 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:12.628 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:12.628 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:12.628 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:12.628 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:13.949 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:13.950 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:13.950 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:13.950 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:13.950 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:15.723 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:15.724 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:15.724 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:15.724 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:15.724 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:16.911 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:16.911 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:16.911 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:16.912 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:16.912 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:18.261 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:18.262 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:18.262 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:18.262 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:18.262 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:19.452 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:19.452 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:19.452 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:19.452 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:19.453 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:54:20.708 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:54:20.709 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:54:20.709 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:54:20.709 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:54:20.709 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 17:56:24.244 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 17:56:24.254 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:56:24.254 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:56:24.254 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:56:24.255 [main] Log4J2XmlConf - This is a fatal message
+[DEBUG] 2017-10-24 18:03:43.971 [main] Log4J2XmlConf - This is a debug message
+[INFO ] 2017-10-24 18:03:43.981 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 18:03:43.981 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 18:03:43.981 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 18:03:43.981 [main] Log4J2XmlConf - This is a fatal message

@@ -1,0 +1,4 @@
+[INFO ] 2017-10-24 17:53:54.026 [main] Log4J2XmlConf - This is an info message
+[WARN ] 2017-10-24 17:53:54.074 [main] Log4J2XmlConf - This is a warn message
+[ERROR] 2017-10-24 17:53:54.074 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-24 17:53:54.074 [main] Log4J2XmlConf - This is a fatal message
